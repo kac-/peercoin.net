@@ -399,29 +399,16 @@ a:hover {
 }
 
 .ch-img-1 {
-	background-image: url(../images/1.jpg);
+	background-image: url(/assets/img/home/1.jpg);
 }
 
 .ch-img-2 {
-	background-image: url(../images/2.jpg);
+	background-image: url(/assets/img/home/2.jpg);
 }
 
 .ch-img-3 {
-	background-image: url(../images/3.jpg);
+	background-image: url(/assets/img/home/3.jpg);
 }
-
-.ch-img-4 {
-	background-image: url(../images/4.jpg);
-}
-
-.ch-img-5 {
-	background-image: url(../images/5.jpg);
-}
-
-.ch-img-6 {
-	background-image: url(../images/6.jpg);
-}
-
 
 .ch-info {
 	position: absolute;
